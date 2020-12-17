@@ -17,4 +17,4 @@ eol2.sysgen.kr
   
 ***
   
-[\\_^^_/ APK 다운로드 \\_^^_/](https://drive.google.com/file/d/1dKHQRQ0asl91GNRKgZhfWBhbCN0hVQA3/view?usp=sharing)
+[APK 다운로드 BuildVersion 1.0_20201216](https://drive.google.com/file/d/1dKHQRQ0asl91GNRKgZhfWBhbCN0hVQA3/view?usp=sharing)
